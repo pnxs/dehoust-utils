@@ -26,9 +26,7 @@ describe("calculateFluidLevel", function() {
         dehoust_utils.calculateFluidLevel(model, 75).should.equal(50);
     });
     
-/*
-    it("should return 10l", function() {
-        dehoust_utils.calculateFluidLevel(model, 6).should.equal(10);
+    it("should return 9.6l", function() {
+        dehoust_utils.calculateFluidLevel(model, 16).should.equal(9.6);
     });
-*/
 });
