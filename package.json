@@ -1,7 +1,7 @@
 {
   "name": "dehoust-utils",
   "version": "1.0.0",
-  "description": "Calculate fluid level from height for DEHOUS oil tanks",
+  "description": "Calculate fluid level from height for DEHOUST oil tanks",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
