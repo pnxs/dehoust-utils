@@ -1,0 +1,15 @@
+{
+  "name": "dehoust-utils",
+  "version": "1.0.0",
+  "description": "Calculate fluid level from height for DEHOUS oil tanks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Thomas Schätzlein <npm@thomas.pnxs.de> (http://pnxs.de/)",
+  "license": "GPLv2",
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}
